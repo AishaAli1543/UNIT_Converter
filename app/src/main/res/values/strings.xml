@@ -1,0 +1,14 @@
+<resources>
+    <!-- ... other string resources ... -->
+    <string name="app_name">UNITCONVERTER</string>
+    <!-- Define an array resource for unit options -->
+    <string-array name="unit_options">
+        <item>Centimeters to Meters</item>
+        <item>Meters to Centimeters</item>
+        <item>Grams to Kilograms</item>
+        <item>Kilograms to Grams</item>
+
+
+        <!-- Add more unit options as needed -->
+    </string-array>
+</resources>
